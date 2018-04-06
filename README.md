@@ -1,2 +1,2 @@
 # voting-sheet
-stuff to knwo about voting sheet 
+stuff to know about voting sheet 
